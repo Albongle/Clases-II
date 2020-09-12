@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Temperatura.Celsius">
+    <Position X="3.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAgAARAEAAAAAAAAEEAAAAAAAAAAAIiQ=</HashCode>
+      <FileName>Celsius.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Temperatura.Fahrenheit">
+    <Position X="7" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAARAEAgAAAAAAEEAAAAAAAAAAAIiQ=</HashCode>
+      <FileName>Fahrenheit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Temperatura.Kelvin">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAARAEAgAAAAAAEEAAAAAAAAAABAiQ=</HashCode>
+      <FileName>Kelvin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

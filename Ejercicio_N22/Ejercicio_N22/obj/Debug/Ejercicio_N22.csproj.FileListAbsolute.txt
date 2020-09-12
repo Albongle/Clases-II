@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\bin\Debug\Ejercicio_N22.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\bin\Debug\Ejercicio_N22.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\bin\Debug\Ejercicio_N22.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\bin\Debug\Conversor.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\bin\Debug\Conversor.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\obj\Debug\Ejercicio_N22.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\obj\Debug\Ejercicio_N22.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\obj\Debug\Ejercicio_N22.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\obj\Debug\Ejercicio_N22.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Ejercicio_N22\obj\Debug\Ejercicio_N22.pdb

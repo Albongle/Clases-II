@@ -1,0 +1,6 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\bin\Debug\Billetes.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\bin\Debug\Billetes.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\obj\Debug\Billetes.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N20\Billetes\obj\Debug\Billetes.pdb

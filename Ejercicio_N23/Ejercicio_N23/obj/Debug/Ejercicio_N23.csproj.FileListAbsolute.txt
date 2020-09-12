@@ -1,0 +1,13 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\bin\Debug\Ejercicio_N23.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\bin\Debug\Ejercicio_N23.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\bin\Debug\Ejercicio_N23.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.FormConversor.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\bin\Debug\Billetes.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\bin\Debug\Billetes.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N23\Ejercicio_N23\obj\Debug\Ejercicio_N23.csproj.CopyComplete

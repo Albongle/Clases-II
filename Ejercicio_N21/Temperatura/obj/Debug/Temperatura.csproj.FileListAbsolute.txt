@@ -1,0 +1,6 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\bin\Debug\Temperatura.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\bin\Debug\Temperatura.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\obj\Debug\Temperatura.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\obj\Debug\Temperatura.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Temperatura\obj\Debug\Temperatura.pdb

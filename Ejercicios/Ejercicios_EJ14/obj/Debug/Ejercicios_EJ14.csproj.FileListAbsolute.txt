@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\bin\Debug\Ejercicios_EJ14.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\bin\Debug\Ejercicios_EJ14.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\bin\Debug\Ejercicios_EJ14.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\bin\Debug\Entidades.dll
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\bin\Debug\Entidades.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\obj\Debug\Ejercicios_EJ14.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\obj\Debug\Ejercicios_EJ14.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\obj\Debug\Ejercicios_EJ14.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\obj\Debug\Ejercicios_EJ14.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ14\obj\Debug\Ejercicios_EJ14.pdb

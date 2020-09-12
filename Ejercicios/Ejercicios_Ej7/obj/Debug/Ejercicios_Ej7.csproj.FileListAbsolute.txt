@@ -1,0 +1,14 @@
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.exe.config
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.exe
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.pdb
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.csprojAssemblyReference.cache
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.csproj.CoreCompileInputs.cache
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.exe
+A:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\bin\Debug\Ejercicios_Ej7.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_Ej7\obj\Debug\Ejercicios_Ej7.pdb

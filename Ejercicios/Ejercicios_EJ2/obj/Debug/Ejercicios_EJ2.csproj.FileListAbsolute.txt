@@ -1,0 +1,6 @@
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\obj\Debug\Ejercicios_EJ2.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\bin\Debug\Ejercicios_EJ2.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\bin\Debug\Ejercicios_EJ2.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\bin\Debug\Ejercicios_EJ2.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\obj\Debug\Ejercicios_EJ2.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ2\obj\Debug\Ejercicios_EJ2.pdb

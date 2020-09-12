@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\bin\Debug\Ejercicio_N21.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\bin\Debug\Ejercicio_N21.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\bin\Debug\Ejercicio_N21.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\bin\Debug\Temperatura.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\bin\Debug\Temperatura.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\obj\Debug\Ejercicio_N21.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\obj\Debug\Ejercicio_N21.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\obj\Debug\Ejercicio_N21.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\obj\Debug\Ejercicio_N21.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N21\Ejercicio_N21\obj\Debug\Ejercicio_N21.pdb

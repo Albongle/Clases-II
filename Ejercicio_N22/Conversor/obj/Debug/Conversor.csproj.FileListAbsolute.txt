@@ -1,0 +1,6 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\bin\Debug\Conversor.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\bin\Debug\Conversor.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\obj\Debug\Conversor.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N22\Conversor\obj\Debug\Conversor.pdb

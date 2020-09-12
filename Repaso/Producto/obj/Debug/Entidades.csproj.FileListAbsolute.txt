@@ -1,0 +1,6 @@
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\bin\Debug\Producto.dll
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\bin\Debug\Producto.pdb
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\obj\Debug\Producto.dll
+E:\Facultad\2- Programacion II\C#\Repaso\Producto\obj\Debug\Producto.pdb

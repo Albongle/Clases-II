@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\bin\Debug\Ejercicios_EJ4.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\bin\Debug\Ejercicios_EJ4.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\bin\Debug\Ejercicios_EJ4.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\obj\Debug\Ejercicios_EJ4.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\obj\Debug\Ejercicios_EJ4.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\obj\Debug\Ejercicios_EJ4.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ4\obj\Debug\Ejercicios_EJ4.pdb

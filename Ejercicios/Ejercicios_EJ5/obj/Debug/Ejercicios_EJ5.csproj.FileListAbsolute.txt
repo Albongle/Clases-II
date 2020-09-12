@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\bin\Debug\Ejercicios_EJ5.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\bin\Debug\Ejercicios_EJ5.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\bin\Debug\Ejercicios_EJ5.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\obj\Debug\Ejercicios_EJ5.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\obj\Debug\Ejercicios_EJ5.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\obj\Debug\Ejercicios_EJ5.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ5\obj\Debug\Ejercicios_EJ5.pdb

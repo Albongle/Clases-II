@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\bin\Debug\Repaso.exe.config
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\bin\Debug\Repaso.exe
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\bin\Debug\Repaso.pdb
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\obj\Debug\Repaso.exe
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\obj\Debug\Repaso.pdb
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\bin\Debug\Producto.dll
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\bin\Debug\Producto.pdb
+E:\Facultad\2- Programacion II\C#\Repaso\Repaso\obj\Debug\Repaso.csproj.CopyComplete

@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\obj\Debug\Ejercicios_EJ16.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\obj\Debug\Ejercicios_EJ16.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\bin\Debug\Ejercicios_EJ16.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\bin\Debug\Ejercicios_EJ16.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\bin\Debug\Ejercicios_EJ16.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\obj\Debug\Ejercicios_EJ16.exe
+E:\Facultad\2- Programacion II\C#\Ejercicios\Ejercicios_EJ16\obj\Debug\Ejercicios_EJ16.pdb

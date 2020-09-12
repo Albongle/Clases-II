@@ -1,0 +1,1 @@
+c:\users\montoya\documents\visual studio 2012\Projects\Validar TextBox\Validar TextBox\bin\Debug\Validar TextBox.exe.config
