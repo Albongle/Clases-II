@@ -1,0 +1,13 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\bin\Debug\Ejercicio_N24.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\bin\Debug\Ejercicio_N24.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\bin\Debug\Ejercicio_N24.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.FormTemperartura.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\bin\Debug\Temperatura.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\bin\Debug\Temperatura.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N24\Ejercicio_N24\obj\Debug\Ejercicio_N24.csproj.CopyComplete
