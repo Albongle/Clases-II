@@ -16,7 +16,6 @@ namespace Conversor
         {
             this.numero = numero;
         }
-
         public double GetNumero()
         {
             return this.numero;
@@ -35,15 +34,6 @@ namespace Conversor
             } while (resultDiv > 0);
 
             return valorBinario;
-        }
-        private string Invertir(string cadena)
-        {
-            string cadenaInvertida = "";
-            foreach (char caracter in cadena)
-            {
-                cadenaInvertida = caracter + cadenaInvertida;
-            }
-            return cadenaInvertida;
         }
         public static implicit operator NumeroDecimal(double numero)
         {
