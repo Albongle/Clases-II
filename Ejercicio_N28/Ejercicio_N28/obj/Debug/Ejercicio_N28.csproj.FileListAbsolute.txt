@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\bin\Debug\Ejercicio_N28.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\bin\Debug\Ejercicio_N28.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\bin\Debug\Ejercicio_N28.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.frmContador.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N28\Ejercicio_N28\obj\Debug\Ejercicio_N28.pdb
