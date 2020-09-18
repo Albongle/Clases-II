@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\bin\Debug\Ejercicio_N27.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\bin\Debug\Ejercicio_N27.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\bin\Debug\Ejercicio_N27.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\obj\Debug\Ejercicio_N27.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\obj\Debug\Ejercicio_N27.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\obj\Debug\Ejercicio_N27.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N27\Ejercicio_N27\obj\Debug\Ejercicio_N27.pdb
