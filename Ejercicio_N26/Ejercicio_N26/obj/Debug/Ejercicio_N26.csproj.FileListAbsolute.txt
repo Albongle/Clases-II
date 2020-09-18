@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\bin\Debug\Ejercicio_N26.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\bin\Debug\Ejercicio_N26.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\bin\Debug\Ejercicio_N26.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\obj\Debug\Ejercicio_N26.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\obj\Debug\Ejercicio_N26.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\obj\Debug\Ejercicio_N26.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N26\Ejercicio_N26\obj\Debug\Ejercicio_N26.pdb
