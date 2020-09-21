@@ -49,7 +49,11 @@ namespace Biblioteca
         }
         public string MostrarDatos()
         {
-            return "Jugadro: " + this.nombre + "\nDNI: " + this.dni + "\nPartidos Jugados: " + this.partidosJugados + "\nTotal Goles: " + this.totalGoles + "\nPromedio Goles: " + this.GetPromedioGoles();
+            return "Jugadro: " + this.nombre 
+                + "\nDNI: " + this.dni 
+                + "\nPartidos Jugados: " + this.partidosJugados 
+                + "\nTotal Goles: " + this.totalGoles 
+                + "\nPromedio Goles: " + this.GetPromedioGoles();
         }
 
     }

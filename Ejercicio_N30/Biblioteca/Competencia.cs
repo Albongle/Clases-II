@@ -20,6 +20,17 @@ namespace Biblioteca
             this.cantidadVueltas = cantidadVueltas;
             this.cantidadCompetidores = cantidadCompetidores;
         }
+        public string MostrarDatos()
+        {
+            StringBuilder returnAux = new StringBuilder();
+            returnAux.AppendLine(("Cantidad de vueltas de la competencias: " + this.cantidadVueltas).ToString());
+            returnAux.AppendLine(("Cantidad de competidores: "+ this.cantidadCompetidores).ToString());
+            foreach (AutoF1 auto in competidores)
+            {
+                returnAux.AppendLine(auto.MostrarDatos());
+            }
+            return returnAux.ToString();
+        }
         public static bool operator +(Competencia c, AutoF1 a)
         {
             Random combusRandom = new Random();

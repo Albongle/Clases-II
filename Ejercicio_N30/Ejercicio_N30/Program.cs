@@ -27,6 +27,11 @@ namespace Ejercicio_N30
                     Console.WriteLine("No se agrego ya que la competencia esta completa: {0}", autos[i].MostrarDatos());
                 }
             }
+
+            Console.WriteLine();
+            Console.WriteLine("<-------------------------------------------------------------------------------------------------->");
+            Console.WriteLine(formulaUno.MostrarDatos());
+
             Console.ReadKey();
         }
     }

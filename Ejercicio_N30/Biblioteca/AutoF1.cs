@@ -23,7 +23,11 @@ namespace Biblioteca
         }
         public string MostrarDatos()
         {
-            return "El auto numero: " + this.numero + "\nEscuderia: " + this.escuderia + "\nEn competencia: " + this.enCompetencia + "\nCantidad de combustible: " + this.cantidadCombustible + "\nVueltas restantes: " + this.vueltasRestantes;
+            return "El auto numero: " + this.numero 
+                + "\nEscuderia: " + this.escuderia 
+                + "\nEn competencia: " + this.enCompetencia 
+                + "\nCantidad de combustible: " + this.cantidadCombustible 
+                + "\nVueltas restantes: " + this.vueltasRestantes;
         }
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
