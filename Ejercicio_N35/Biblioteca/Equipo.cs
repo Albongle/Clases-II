@@ -24,10 +24,21 @@ namespace Biblioteca
         public static bool operator +(Equipo e, Jugador j)
         {
             bool returnAux = false;
-            if (e.jugadores.Count() < e.cantidadDeJugadores && !(e.jugadores.Contains(j)))
+            int flag = 0;
+            if (e.jugadores.Count() < e.cantidadDeJugadores)
             {
-                e.jugadores.Add(j);
-                returnAux = true;
+                foreach (Jugador jugador in e.jugadores)
+                {
+                    if(jugador==j)
+                    {
+                        flag = 1;
+                    }
+                }
+                if(flag==0)
+                {
+                    e.jugadores.Add(j);
+                    returnAux = true;
+                }
             }
             return returnAux;
         }

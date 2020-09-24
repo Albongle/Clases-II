@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Biblioteca.DirectorTecnico">
-    <Position X="1.75" Y="4" Width="1.5" />
+    <Position X="1.75" Y="4" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
       <FileName>DirectorTecnico.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -15,9 +15,9 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Biblioteca.Jugador">
-    <Position X="3.75" Y="3.75" Width="2" />
+    <Position X="6" Y="4" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAAAABAAAAAACAgAAAAAAAAAAAIABAACAIQAAAAiA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAIABAACAIQAAAAiA=</HashCode>
       <FileName>Jugador.cs</FileName>
     </TypeIdentifier>
   </Class>

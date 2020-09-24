@@ -52,7 +52,7 @@ namespace Biblioteca
         }
         public static bool operator ==(Jugador j1, Jugador j2)
         {
-            return j1.dni == j2.dni;
+            return j1.Dni == j2.Dni;
         }
         public static bool operator !=(Jugador j1, Jugador j2)
         {
@@ -60,11 +60,13 @@ namespace Biblioteca
         }
         public string MostrarDatos()
         {
-            return "Jugador: " + this.Nombre
-                + "\nDNI: " + this.Dni
-                + "\nPartidos Jugados: " + this.partidosJugados 
-                + "\nTotal Goles: " + this.totalGoles 
-                + "\nPromedio Goles: " + this.PromedioDeGoles;
+            StringBuilder returnAux = new StringBuilder();
+
+            returnAux.AppendLine(base.MostrarDatos() 
+                + "\nPartidos Jugados: " + this.partidosJugados
+                + "\nTotal Goles: " + this.totalGoles
+                + "\nPromedio Goles: " + this.PromedioDeGoles);
+            return returnAux.ToString();
         }
 
     }

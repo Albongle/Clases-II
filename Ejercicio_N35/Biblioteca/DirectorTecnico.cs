@@ -29,8 +29,12 @@ namespace Biblioteca
         }
         public string MostrarDatos()
         {
-            return "Nombre DT: " + this.Nombre
-                + "\nFecha de Nacimiento: " + this.fechaNaciemiento;
+            StringBuilder returnAux = new StringBuilder();
+
+            returnAux.AppendLine(base.MostrarDatos()
+                + "\nNombre DT: " + this.Nombre
+                + "\nFecha de Nacimiento: " + this.fechaNaciemiento);
+            return returnAux.ToString();
           }
     }
 }
