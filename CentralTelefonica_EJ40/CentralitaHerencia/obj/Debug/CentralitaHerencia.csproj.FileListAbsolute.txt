@@ -1,0 +1,12 @@
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+E:\Facultad\2- Programacion II\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

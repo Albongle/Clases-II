@@ -1,0 +1,15 @@
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\bin\Debug\CentralTelefonica_EJ40.exe.config
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\bin\Debug\CentralTelefonica_EJ40.exe
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\bin\Debug\CentralTelefonica_EJ40.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\bin\Debug\CentralitaHerencia.dll
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\bin\Debug\CentralitaHerencia.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.FrmCentralTelefonica.resources
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.FrmLlamador.resources
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.exe
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.pdb
+E:\Facultad\2- Programacion II\C#\CentralTelefonica_EJ40\CentralTelefonica_EJ40\obj\Debug\CentralTelefonica_EJ40.FrmMostrar.resources

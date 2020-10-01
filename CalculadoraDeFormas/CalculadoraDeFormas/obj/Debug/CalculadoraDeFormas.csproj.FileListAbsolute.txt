@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe.config
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.pdb
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.exe
+E:\Facultad\2- Programacion II\C#\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.pdb
