@@ -1,0 +1,7 @@
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\bin\Debug\ProyectoSingleton.exe.config
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\bin\Debug\ProyectoSingleton.exe
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\bin\Debug\ProyectoSingleton.pdb
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\obj\Debug\ProyectoSingleton.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\obj\Debug\ProyectoSingleton.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\obj\Debug\ProyectoSingleton.exe
+E:\Facultad\2- Programacion II\C#\ProyectoSingleton\ProyectoSingleton\obj\Debug\ProyectoSingleton.pdb

@@ -1,0 +1,15 @@
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe.config
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.pdb
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.dll
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.pdb
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.FrmCantina.resources
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.exe
+E:\Facultad\2- Programacion II\C#\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.pdb
