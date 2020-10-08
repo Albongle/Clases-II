@@ -1,0 +1,13 @@
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\bin\Debug\Formulario.exe.config
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\bin\Debug\Formulario.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\bin\Debug\Formulario.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\bin\Debug\Entidades.dll
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\bin\Debug\Entidades.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.FrmCreaPickUp.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Formulario\obj\Debug\Formulario.pdb

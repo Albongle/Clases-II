@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\bin\Debug\Practica de Examen.exe.config
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\bin\Debug\Practica de Examen.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\bin\Debug\Practica de Examen.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\bin\Debug\Entidades.dll
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\bin\Debug\Entidades.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\obj\Debug\Practica de Examen.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\obj\Debug\Practica de Examen.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\obj\Debug\Practica de Examen.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\obj\Debug\Practica de Examen.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni_Practica de Examen\Practica de Examen\obj\Debug\Practica de Examen.pdb
