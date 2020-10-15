@@ -136,6 +136,11 @@ namespace CentralitaHerencia
             {
                 c.AgregarLlamada(llamandaNueva);
             }
+            else
+            {
+                throw new CentralitaException("Llamada ya existente","Centralita", "Agregar llamada a Centralita");
+            }
+            
             return c;
         }
         #endregion

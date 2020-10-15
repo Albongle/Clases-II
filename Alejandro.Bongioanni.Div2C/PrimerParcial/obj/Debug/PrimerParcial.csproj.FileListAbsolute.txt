@@ -1,0 +1,15 @@
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\bin\Debug\PrimerParcial.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\bin\Debug\PrimerParcial.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.FrmBar.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.FrmDatos.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.FrmInforme.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.exe
+E:\Facultad\2- Programacion II\C#\Alejandro.Bongioanni.Div2C\PrimerParcial\obj\Debug\PrimerParcial.pdb
