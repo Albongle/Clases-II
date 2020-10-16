@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteca.AutoF1">
+    <Position X="0.5" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAgAAAAAAAEAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>AutoF1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Competencia">
+    <Position X="4" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Biblioteca.Competencia.TipoCompetencia" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Competencia.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAIBgAyAEYAAAAAAAAAAAAAAAAAAAAAiQ=</HashCode>
+      <FileName>Competencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.MotoCross">
+    <Position X="4" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>MotoCross.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.VehiculoDeCarrera">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAQEEEAEBBBiA=</HashCode>
+      <FileName>VehiculoDeCarrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
