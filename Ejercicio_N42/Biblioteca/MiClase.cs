@@ -24,11 +24,11 @@ namespace Biblioteca
         {
             try
             {
-                MiClase.MiMetodoEstatico();
+                new MiClase();
             }
             catch (DivideByZeroException ex)
             {
-                throw new UnaExcepcion("2 constructor", ex);
+                throw new UnaExcepcion("MiClase(int num1)", ex);
             }
 
         }
@@ -36,7 +36,7 @@ namespace Biblioteca
 
         public static void MiMetodoEstatico()
         {
-            throw new DivideByZeroException("Division por cero");
+            throw new DivideByZeroException("MetodoEstatico Division por cero");
         }
     }
 }

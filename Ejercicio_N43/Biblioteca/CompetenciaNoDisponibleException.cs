@@ -46,7 +46,7 @@ namespace Biblioteca
             while(ex!=null)
             {
                 returnAux.Append("Inner: " + ex.Message +"\t");
-                ex = ex.InnerException;                
+                ex = ex.InnerException;
             }
             return returnAux.ToString();
         }
