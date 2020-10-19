@@ -16,6 +16,20 @@ namespace Ejercicio_N43
             AutoF1[] autos = new AutoF1[10];
             MotoCross moto = new MotoCross((short)10, azar.Next(1, 5).ToString());
 
+            try
+            {
+                if (formulaUno + moto)
+                {
+
+                }
+            }
+            catch (CompetenciaNoDisponibleException ex)
+            {
+                Console.WriteLine();
+                Console.WriteLine("<---------------------------------Execpcion--------------------------------->");
+                Console.WriteLine(ex.ToString()+"\n\n");
+            }
+
             for (int i = 0; i < autos.Length; i++)
             {
                 autos[i] = new AutoF1((short)i, azar.Next(1, 5).ToString());
@@ -30,19 +44,7 @@ namespace Ejercicio_N43
                         Console.WriteLine("No se agrego ya que la competencia esta completa: {0}", autos[i].MostrarDatos());
                     }
             }
-            try
-            {
-                if(formulaUno+moto)
-                {
 
-                }
-            }
-            catch(CompetenciaNoDisponibleException ex)
-            {
-                Console.WriteLine();
-                Console.WriteLine("<---------------------------------Execpcion--------------------------------->");
-                Console.WriteLine(ex.ToString());
-            }
 
             Console.WriteLine();
             Console.WriteLine("<-------------------------------------------------------------------------------------------------->");

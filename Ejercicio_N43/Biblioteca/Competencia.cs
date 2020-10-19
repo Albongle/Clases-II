@@ -47,6 +47,13 @@ namespace Biblioteca
                 this.cantidadVueltas = value;
             }
         }
+        public List<VehiculoDeCarrera> ListadeVehiculos
+        {
+            get
+            {
+                return this.competidores;
+            }
+        }
         public VehiculoDeCarrera this[int i]
         {
             get
@@ -111,7 +118,7 @@ namespace Biblioteca
         }
         public static bool operator ==(Competencia c, VehiculoDeCarrera v)
         {
-           bool returnAux = true;
+           bool returnAux = false;
            if((c.Tipo == Competencia.TipoCompetencia.F1 && v.GetType()!=typeof(AutoF1)) || (c.Tipo == Competencia.TipoCompetencia.MotoCross && v.GetType() != typeof(MotoCross)))
             {
               throw new CompetenciaNoDisponibleException("El vehiculo no corresponde a la competencina","Compentencia","Validacion");                
@@ -122,7 +129,7 @@ namespace Biblioteca
                 {
                     if (vehiculo == v)
                     {
-                        returnAux = false;
+                        returnAux = true;
                         break;
                     }
                 }
