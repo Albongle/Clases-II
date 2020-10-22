@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\bin\Debug\Ejercicio_N48.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\bin\Debug\Ejercicio_N48.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\bin\Debug\Ejercicio_N48.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\obj\Debug\Ejercicio_N48.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\obj\Debug\Ejercicio_N48.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\obj\Debug\Ejercicio_N48.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\obj\Debug\Ejercicio_N48.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N48\Ejercicio_N48\obj\Debug\Ejercicio_N48.pdb
