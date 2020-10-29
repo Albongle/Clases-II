@@ -8,7 +8,7 @@ using System.Xml.Schema;
 
 namespace CentralitaHerencia
 {
-    public class Centralita
+    public class Centralita : IGuardar<string> 
     {
         #region Atributos
         private List<Llamada> listaDeLlamadas;
@@ -53,6 +53,17 @@ namespace CentralitaHerencia
             get
             {
                 return CalcularGanancia(Llamada.TipoLlamada.Todas);
+            }
+        }
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return string.Empty;
+            }
+            set
+            {
+
             }
         }
         #endregion
@@ -111,6 +122,16 @@ namespace CentralitaHerencia
         {
             this.listaDeLlamadas.Add(nuevaLlamada);
         }
+        public bool Guardar()
+        {
+            this.ToString();
+            return true;
+        }
+        public string Leer()
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
 
         #region SobreCargas

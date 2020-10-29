@@ -48,6 +48,7 @@ namespace CentralitaHerencia
                 return this.nroOrigen;
             }
         }
+
         #endregion
 
         #region Metodos
@@ -71,6 +72,15 @@ namespace CentralitaHerencia
             returnAux.AppendLine("El numero de origen de la llamada es: " + this.nroOrigen);
             returnAux.AppendLine("El numero de destino de la llamada es: " + this.nroDestino);
             return returnAux.ToString();
+        }
+        public bool Guardar()
+        {
+            this.ToString();
+            return true;
+        }
+        public string Leer()
+        {
+            throw new NotImplementedException();
         }
         #endregion
 

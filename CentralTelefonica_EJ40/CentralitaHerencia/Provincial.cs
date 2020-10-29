@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Provincial :Llamada
+    public class Provincial :Llamada , IGuardar<string>
     {
         #region Atributos
         public enum Franja {Franja_1,Franja_2,Franja_3};
@@ -32,6 +32,17 @@ namespace CentralitaHerencia
             get
             {
                 return this.CalcularCosto();
+            }
+        }
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return string.Empty;
+            }
+            set
+            {
+
             }
         }
         #endregion
