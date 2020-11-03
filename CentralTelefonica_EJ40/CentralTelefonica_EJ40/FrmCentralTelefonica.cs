@@ -40,7 +40,7 @@ namespace CentralTelefonica_EJ40
         }
         private void MostrarFacturacion()
         {
-            FrmMostrar informe = new FrmMostrar();
+            FrmMostrar informe = new FrmMostrar(this.unaCentralita);
             informe.ShowDialog();
         }
 

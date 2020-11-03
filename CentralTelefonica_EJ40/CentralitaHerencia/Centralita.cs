@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -124,12 +125,47 @@ namespace CentralitaHerencia
         }
         public bool Guardar()
         {
-            this.ToString();
-            return true;
+            StreamWriter streamWriter = null;
+            string mensaje = $"{DateTime.Now.ToString("dddd-MMMM-yyyy hh:mm")} se realizo una llamada";
+            try
+            {
+                streamWriter = new StreamWriter("BitcoraDeLlamados.txt", true);
+                streamWriter.WriteLine(mensaje);
+                return true;
+            }
+            catch(Exception ex)
+            {
+                throw new FallaLogException("Error al guardar", "Centralita", "Guardar",ex);
+            }
+            finally
+            {
+                if(streamWriter!=null)
+                {
+                    streamWriter.Close();
+                }
+            }
         }
         public string Leer()
         {
-            throw new NotImplementedException();
+            string mensaje = string.Empty;
+            StreamReader streamReader = null;
+            try
+            {
+                streamReader = new StreamReader("BitcoraDeLlamados.txt");
+                mensaje = streamReader.ReadToEnd();
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                if(streamReader!=null)
+                {
+                    streamReader.Close();
+                }
+            }
+            return mensaje;
         }
 
         #endregion
@@ -153,16 +189,25 @@ namespace CentralitaHerencia
         }
         public static Centralita operator +(Centralita c, Llamada llamandaNueva)
         {
-            if(c!=llamandaNueva)
+            try
             {
-                c.AgregarLlamada(llamandaNueva);
+                if (c != llamandaNueva)
+                {
+                    c.AgregarLlamada(llamandaNueva);
+                    c.Guardar();
+                }
+                else
+                {
+                    throw new CentralitaException("Llamada ya existente", "Centralita", "Agregar llamada a Centralita");
+                }
+
+                return c;
             }
-            else
+            catch(FallaLogException ex)
             {
-                throw new CentralitaException("Llamada ya existente","Centralita", "Agregar llamada a Centralita");
+                throw ex;
             }
-            
-            return c;
+
         }
         #endregion
     }

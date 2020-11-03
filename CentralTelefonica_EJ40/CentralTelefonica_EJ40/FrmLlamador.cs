@@ -6,6 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -14,6 +15,7 @@ namespace CentralTelefonica_EJ40
     public partial class FrmLlamador : Form
     {
         protected Centralita centralita;
+        Llamada llamada;
         public FrmLlamador(Centralita centralita)
         {
             InitializeComponent();
@@ -138,6 +140,30 @@ namespace CentralTelefonica_EJ40
                 e.Handled = true;
                 MessageBox.Show("Solo numeros", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
+        }
+        private void btnLlamar_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            float duracion = (float)random.Next(1, 3600);
+            try
+            {
+                if (this.txtNroDestino.Text[0] == '#')
+                {
+                    llamada = new Provincial(this.txtNroOrigen.Text, (Provincial.Franja)this.cmbFranja.SelectedItem, duracion, this.txtNroDestino.Text);
+                }
+                else
+                {
+                    Thread.Sleep(2000);
+                    float costo = (float)random.Next(1, 100);
+                    llamada = new Local(this.txtNroOrigen.Text,duracion, this.txtNroDestino.Text,costo);
+                }
+                centralita += llamada;
+            }
+            catch(CentralitaException ex)
+            {
+                MessageBox.Show($"Error: {ex.Message}, Producido en {ex.NombreClase} al momento de {ex.NombreMetodo}","Error..!!",MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
     }
 }

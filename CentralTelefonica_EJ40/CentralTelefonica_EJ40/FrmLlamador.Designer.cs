@@ -191,6 +191,7 @@
             this.btnLlamar.TabIndex = 14;
             this.btnLlamar.Text = "Llamar";
             this.btnLlamar.UseVisualStyleBackColor = true;
+            this.btnLlamar.Click += new System.EventHandler(this.btnLlamar_Click);
             // 
             // btnLimpiar
             // 

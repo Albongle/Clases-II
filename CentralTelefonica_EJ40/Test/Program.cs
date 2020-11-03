@@ -40,7 +40,7 @@ namespace Test
             Console.WriteLine("============Ordenado=============");
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
-
+            Console.WriteLine($"============Archivo==============\n{c.Leer()}");
             Console.ReadKey();
 
         }

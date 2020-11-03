@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CentralitaHerencia;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,15 @@ namespace CentralTelefonica_EJ40
 {
     public partial class FrmMostrar : Form
     {
-        public FrmMostrar()
+        public FrmMostrar(Centralita c)
         {
             InitializeComponent();
+            this.rchTextInforme.Text = c.ToString();
+        }
+
+        private void FrmMostrar_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
