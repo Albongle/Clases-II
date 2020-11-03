@@ -54,6 +54,13 @@
       <Project>{e12318a5-741e-444f-8e93-4508e0a41328}</Project>
       <Name>Biblioteca</Name>
     </ProjectReference>
+    <ProjectReference Include="..\IO\IO.csproj">
+      <Project>{4af293d8-927b-4a8b-bfd0-387a41ec901c}</Project>
+      <Name>IO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

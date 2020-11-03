@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiTestUnitario", "MiTestUnitario\MiTestUnitario.csproj", "{7748D2BA-53C8-43E1-BDD2-1E81733DD255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{4AF293D8-927B-4A8B-BFD0-387A41EC901C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7748D2BA-53C8-43E1-BDD2-1E81733DD255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7748D2BA-53C8-43E1-BDD2-1E81733DD255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7748D2BA-53C8-43E1-BDD2-1E81733DD255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF293D8-927B-4A8B-BFD0-387A41EC901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF293D8-927B-4A8B-BFD0-387A41EC901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF293D8-927B-4A8B-BFD0-387A41EC901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF293D8-927B-4A8B-BFD0-387A41EC901C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

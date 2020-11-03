@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Biblioteca;
+using IO;
 
 namespace Ejercicio_N42
 {
@@ -11,6 +12,8 @@ namespace Ejercicio_N42
     {
         static void Main(string[] args)
         {
+            DateTime fecha = DateTime.Now;
+            string nombreArchivo = fecha.ToString("yyyyMMdd-hhmm") + ".txt";
             try
             {
                 OtraClase obj = new OtraClase();
@@ -18,14 +21,14 @@ namespace Ejercicio_N42
             }
             catch(Exception ex)
             {
-                Console.WriteLine(ex.Message);
+                ArchivoTexto.Guardar(nombreArchivo, ex.Message);
                 while(ex.InnerException!=null)
                 {
                     ex = ex.InnerException;
-                    Console.WriteLine(ex.Message);                                      
+                    ArchivoTexto.Guardar(nombreArchivo, ex.Message);
                 }
             }
-
+            Console.WriteLine(ArchivoTexto.Leer(nombreArchivo));
             Console.ReadKey();
         }
     }

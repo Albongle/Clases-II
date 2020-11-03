@@ -1,0 +1,3 @@
+MetodoInstancia()
+MiClase(int num1)
+MetodoEstatico Division por cero
