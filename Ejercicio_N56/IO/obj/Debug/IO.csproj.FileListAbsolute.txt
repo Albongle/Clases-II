@@ -1,0 +1,9 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\bin\Debug\IO.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\bin\Debug\IO.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\obj\Debug\IO.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\obj\Debug\IO.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\obj\Debug\IO.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\IO\obj\Debug\IO.pdb

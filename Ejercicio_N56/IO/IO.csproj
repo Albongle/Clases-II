@@ -48,5 +48,11 @@
     <Compile Include="PuntoDat.cs" />
     <Compile Include="PuntoTxt.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Biblioteca.csproj">
+      <Project>{e240543f-860d-4a76-8995-73efdcf2e9d0}</Project>
+      <Name>Biblioteca</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

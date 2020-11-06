@@ -4,10 +4,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Biblioteca;
 
 namespace IO
 {
-    public class PuntoTxt : Archivo, IArchivos<PuntoTxt>
+    public class PuntoTxt : Archivo, IArchivos<string>
     {
 
         protected override bool ValidarArchivo(string ruta, bool validaExistencia)
@@ -24,25 +25,44 @@ namespace IO
                     throw new ArchivoIncorrectoException("El archivo no es un TXT");
                 }
             }
-            catch(FileNotFoundException ex)
+            catch (FileNotFoundException ex)
             {
-                throw new ArchivoIncorrectoException("El archivo no es correcto",ex);
+                throw new ArchivoIncorrectoException("El archivo no es correcto", ex);
             }
-                      
+
         }
-        public bool Guardar(string ruta, PuntoTxt objeto)
+        public bool Guardar(string ruta, string objeto)
         {
-            throw new NotImplementedException();
+            bool returnAux = false;
+            if (this.ValidarArchivo(ruta, true))
+            {
+                FileManager.EscribirArchivoTexto(ruta, objeto, true);
+                returnAux = true;
+            }
+
+            return returnAux;
         }
 
-        public bool GuardarComo(string ruta, PuntoTxt Objeto)
+        public bool GuardarComo(string ruta, string objeto)
         {
-            throw new NotImplementedException();
+            bool returnAux = false;
+            if (this.ValidarArchivo(ruta, true))
+            {
+                FileManager.EscribirArchivoTexto(ruta, objeto, false);
+                returnAux = true;
+            }
+
+            return returnAux;
         }
 
-        public PuntoTxt Leer(string ruta)
+        public string Leer(string ruta)
         {
-            throw new NotImplementedException();
+            string returnAux = string.Empty;
+            if (this.ValidarArchivo(ruta, true))
+            {
+                returnAux = FileManager.LeerArchivoTexto(ruta);
+            }
+            return returnAux;
         }
     }
 }

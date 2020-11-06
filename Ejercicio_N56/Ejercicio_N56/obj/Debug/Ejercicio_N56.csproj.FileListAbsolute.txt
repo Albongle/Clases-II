@@ -11,3 +11,5 @@ E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\obj\Debug\Ejercici
 E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\bin\Debug\Biblioteca.dll
 E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\bin\Debug\Biblioteca.pdb
 E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\obj\Debug\Ejercicio_N56.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\bin\Debug\IO.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N56\Ejercicio_N56\bin\Debug\IO.pdb

@@ -8,13 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Biblioteca;
+using System.Xml.Schema;
+using IO;
 
 namespace Ejercicio_N56
 {
     public partial class frmEditorTexto : Form
     {
-        private string path= string.Empty;
+        private string path = string.Empty;
+        private int tipoArchivo = 0;
         public frmEditorTexto()
         {
             InitializeComponent();
@@ -22,31 +24,60 @@ namespace Ejercicio_N56
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
-            if (openFileDialog.ShowDialog()==DialogResult.OK)
+            openFileDialog.Filter = "txt files (*.txt)|*.txt|dat files (*.dat)|*.dat";
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 this.path = openFileDialog.FileName;
-                this.rchtbCajaDetexto.Text = FileManager.LeerArchivoTexto(this.path);
+                this.tipoArchivo = openFileDialog.FilterIndex;
+                switch (this.tipoArchivo)
+                {
+                    case 1:
+                        {
+                            PuntoTxt archivo = new PuntoTxt();
+                            this.rchtbCajaDetexto.Text = archivo.Leer(this.path);
+                            break;
+                        }
+                    case 2:
+                        {
+                            PuntoDat archivo = new PuntoDat();
+                            this.rchtbCajaDetexto.Text = (archivo.Leer(this.path)).Contenido;
+                            break;
+                        }
+                }
             }
         }
 
         private void rchtbCajaDetexto_TextChanged(object sender, EventArgs e)
         {
-           this.toolStatus.Text ="Caracteres: " + this.rchtbCajaDetexto.Text.Length;
+            this.toolStatus.Text = "Caracteres: " + this.rchtbCajaDetexto.Text.Length;
         }
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if(!(string.IsNullOrWhiteSpace(this.path)))
+            if (!(string.IsNullOrWhiteSpace(this.path)))
             {
-                FileManager.EscribirArchivoTexto(this.path, this.rchtbCajaDetexto.Text, false);
+                switch (this.tipoArchivo)
+                {
+                    case 1:
+                        {
+                            PuntoTxt archivo = new PuntoTxt();
+                            archivo.Guardar(this.path, this.rchtbCajaDetexto.Text);
+                            break;
+                        }
+                    case 2:
+                        {
+                            PuntoDat archivo = new PuntoDat();
+                            archivo.Contenido = this.rchtbCajaDetexto.Text;
+                            archivo.Guardar(this.path, archivo);
+                            break;
+                        }
+                }
             }
-            else 
+            else
             {
                 this.GuardarArchivo(this.rchtbCajaDetexto.Text);
-            }            
+            }
         }
 
         private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -56,11 +87,27 @@ namespace Ejercicio_N56
         private void GuardarArchivo(string texto)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "txt files(*.txt)| *.txt | All files(*.*) | *.* ";
+            saveFileDialog.Filter = "txt files (*.txt)|*.txt|dat files (*.dat)|*.dat";
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
                 this.path = saveFileDialog.FileName;
-                FileManager.EscribirArchivoTexto(this.path, texto, false);
+                this.tipoArchivo = saveFileDialog.FilterIndex;
+                switch (this.tipoArchivo)
+                {
+                    case 1:
+                        {
+                            PuntoTxt archivo = new PuntoTxt();
+                            archivo.GuardarComo(this.path, this.rchtbCajaDetexto.Text);
+                            break;
+                        }
+                    case 2:
+                        {
+                            PuntoDat archivo = new PuntoDat();
+                            archivo.Contenido = this.rchtbCajaDetexto.Text;
+                            archivo.GuardarComo(this.path, archivo);
+                            break;
+                        }
+                }
             }
         }
     }

@@ -10,7 +10,7 @@ namespace Biblioteca
 {
     public class Serializacion<T> where T:new()
     {
-        public void  Serializar (T objeto, string rutaCompleta)
+        public void Serializar (T objeto, string rutaCompleta)
         {
             XmlTextWriter writer = null;
             XmlSerializer serializer = null;
