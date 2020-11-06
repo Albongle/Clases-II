@@ -45,14 +45,8 @@ namespace IO
 
         public bool GuardarComo(string ruta, string objeto)
         {
-            bool returnAux = false;
-            if (this.ValidarArchivo(ruta, true))
-            {
-                FileManager.EscribirArchivoTexto(ruta, objeto, false);
-                returnAux = true;
-            }
-
-            return returnAux;
+            FileManager.EscribirArchivoTexto(ruta, objeto, false);           
+            return true;
         }
 
         public string Leer(string ruta)

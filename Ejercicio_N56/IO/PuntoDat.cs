@@ -15,7 +15,7 @@ namespace IO
         {
 
         }
-        public string Contenido { get { return this.contenido; } set {this.contenido=value;} }
+        public string Contenido { get { return this.contenido; } set { this.contenido = value; } }
 
         protected override bool ValidarArchivo(string ruta, bool validaExistencia)
         {
@@ -38,11 +38,6 @@ namespace IO
         }
         public bool Guardar(string ruta, PuntoDat objeto)
         {
-            return this.GuardarComo(ruta, objeto);
-        }
-
-        public bool GuardarComo(string ruta, PuntoDat objeto)
-        {
             Stream stream = null;
             BinaryFormatter binaryFormatter = null;
             bool returnAux = false;
@@ -61,6 +56,29 @@ namespace IO
                     {
                         stream.Close();
                     }
+                }
+            }
+            return returnAux;
+        }
+
+        public bool GuardarComo(string ruta, PuntoDat objeto)
+        {
+            Stream stream = null;
+            BinaryFormatter binaryFormatter = null;
+            bool returnAux = false;
+
+            try
+            {
+                stream = new FileStream(ruta, FileMode.Create);
+                binaryFormatter = new BinaryFormatter();
+                binaryFormatter.Serialize(stream, objeto);
+                returnAux = true;
+            }
+            finally
+            {
+                if (stream != null)
+                {
+                    stream.Close();
                 }
             }
             return returnAux;
