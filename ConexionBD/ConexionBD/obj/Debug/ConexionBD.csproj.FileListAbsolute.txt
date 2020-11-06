@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+E:\Facultad\2- Programacion II\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb

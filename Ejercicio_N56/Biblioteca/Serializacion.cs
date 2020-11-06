@@ -16,12 +16,10 @@ namespace Biblioteca
             XmlSerializer serializer = null;
             try
             {
-
                 writer = new XmlTextWriter(rutaCompleta, Encoding.UTF8);
                 writer.Formatting = Formatting.Indented;
                 serializer = new XmlSerializer(typeof(T));
-                serializer.Serialize(writer, objeto);
-                
+                serializer.Serialize(writer, objeto);   
             }
             finally
             {

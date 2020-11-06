@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\bin\Debug\Ejercicio_N57.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\bin\Debug\Ejercicio_N57.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\bin\Debug\Ejercicio_N57.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\obj\Debug\Ejercicio_N57.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\obj\Debug\Ejercicio_N57.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\obj\Debug\Ejercicio_N57.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\obj\Debug\Ejercicio_N57.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N57\Ejercicio_N57\obj\Debug\Ejercicio_N57.pdb

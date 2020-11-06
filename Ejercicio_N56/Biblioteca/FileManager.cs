@@ -39,7 +39,6 @@ namespace Biblioteca
                     newLine = streamRead.ReadLine();
                 }
                 return text;
-
             }
             finally
             {
