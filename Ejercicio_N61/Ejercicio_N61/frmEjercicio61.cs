@@ -29,6 +29,7 @@ namespace Ejercicio_N61
         }
         private void btnLeer_Click(object sender, EventArgs e)
         {
+            this.lstPersonas.Items.Clear();
             List<Persona> personas = PersonaDAO.Leer();
             foreach (Persona persona in personas)
             {

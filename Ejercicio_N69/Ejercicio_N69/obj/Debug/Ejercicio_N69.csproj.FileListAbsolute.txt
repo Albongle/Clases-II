@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\bin\Debug\Ejercicio_N69.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\bin\Debug\Ejercicio_N69.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\bin\Debug\Ejercicio_N69.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.frmEjercicio69.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N69\Ejercicio_N69\obj\Debug\Ejercicio_N69.pdb

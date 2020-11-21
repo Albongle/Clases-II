@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlaneta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Planeta>
+    <VelocidadTraslacion>12</VelocidadTraslacion>
+    <PosicionActual>360</PosicionActual>
+    <RadioRespectoSol>150</RadioRespectoSol>
+  </Planeta>
+  <Planeta>
+    <VelocidadTraslacion>8</VelocidadTraslacion>
+    <PosicionActual>248</PosicionActual>
+    <RadioRespectoSol>250</RadioRespectoSol>
+  </Planeta>
+</ArrayOfPlaneta>

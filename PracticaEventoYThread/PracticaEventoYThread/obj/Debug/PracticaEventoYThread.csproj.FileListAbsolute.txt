@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\bin\Debug\PracticaEventoYThread.exe.config
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\bin\Debug\PracticaEventoYThread.exe
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\bin\Debug\PracticaEventoYThread.pdb
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\obj\Debug\PracticaEventoYThread.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\obj\Debug\PracticaEventoYThread.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\obj\Debug\PracticaEventoYThread.csproj.CopyComplete
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\obj\Debug\PracticaEventoYThread.exe
+E:\Facultad\2- Programacion II\C#\PracticaEventoYThread\PracticaEventoYThread\obj\Debug\PracticaEventoYThread.pdb

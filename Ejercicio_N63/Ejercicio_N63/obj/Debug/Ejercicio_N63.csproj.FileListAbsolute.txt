@@ -1,0 +1,13 @@
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\bin\Debug\Ejercicio_N63.exe.config
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\bin\Debug\Ejercicio_N63.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\bin\Debug\Ejercicio_N63.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.frmThreads.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.Properties.Resources.resources
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.csproj.GenerateResource.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.exe
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\bin\Debug\Biblioteca.dll
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\bin\Debug\Biblioteca.pdb
+E:\Facultad\2- Programacion II\C#\Ejercicio_N63\Ejercicio_N63\obj\Debug\Ejercicio_N63.csproj.CopyComplete

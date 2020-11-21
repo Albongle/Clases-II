@@ -1,0 +1,6 @@
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\aleja\Desktop\Practica Parcial 2 Labo\20191121-SP - alumno\Archivos\obj\Debug\Archivos.pdb
